@@ -1,0 +1,10 @@
+.tweetContainer{
+	width: 10em;
+	height: 10em;
+	margin: 0.5em;
+	margin-top:-1em;
+	margin-right:1em;
+	position: absolute; 
+	top: 200; 
+	left: 50; 
+}

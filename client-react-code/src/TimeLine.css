@@ -1,0 +1,11 @@
+.TimeLineTable{
+	width: 16em;
+	margin: 1em;
+}
+
+.TimeLineCtnr{
+	position: relative;
+	min-height: 30em;
+	overflow-y: auto;
+	width: 90%;
+}
